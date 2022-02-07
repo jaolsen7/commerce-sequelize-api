@@ -16,7 +16,7 @@ CREATE TABLE product (
   price DECIMAL NOT NULL,
   stock INT NOT NULL DEFAULT 10,
   category_id INT,
-  FOREIGN KEY (category_id) REFERENCES category(id) ON DELETE SET NULL
+  FOREIGN KEY (category_id) REFERENCES category(id) ON DELETE CASCADE
 );
 
 CREATE TABLE tag (
