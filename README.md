@@ -15,5 +15,5 @@ Screencastify Video Walkthrough: [https://watch.screencastify.com/v/A1N6raGswnKJ
 
 ## Credits
 
-I would like to thank my professory John(@median-man) as well as my fellow classmate David Luu (@maestroluu).
+I would like to thank my professor John(@median-man) as well as my fellow classmate David Luu (@maestroluu).
 
