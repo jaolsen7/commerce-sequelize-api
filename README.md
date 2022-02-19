@@ -3,7 +3,7 @@
 ## Description
 
 This project demonstrates my knowledge of creating a back-end database using express routes and Sequelize, as demonstrated through an Insomnia walkthrough video.
-Technology involved JavaScript, NodeJS, MySQL2, Sequelize, Dotenv, Express, Insomnia
+It uses the mySQL models that have a theme of "commerce". Technology involved JavaScript, NodeJS, MySQL2, Sequelize, Dotenv, Express, Insomnia
 
 ## Installation
 
